@@ -30,6 +30,12 @@ const data = {
       description: 'Bag of 10 Lemons',
       quantity: 1,
     },
+    {
+      id: 50,
+      name: 'Tomatoes',
+      description: 'Bag of 5 big Tomatoes',
+      quantity: 1,
+    },
   ],
 };
 
