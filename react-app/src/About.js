@@ -3,7 +3,7 @@ import React from 'react';
 const About = () => (
   <div className="content-container">
     <div className="content-title-group not-found">
-      <h2 className="title">DEV-TEST Product Wish List DEV-TEST</h2>
+      <h2 className="title">DEMO Product Wish List DEMO</h2>
       <p>
         This project was created to help represent a fundamental app written
         with React. The shopping theme is used throughout the app.
