@@ -33,7 +33,13 @@ const data = {
     {
       id: 50,
       name: 'Tomatoes',
-      description: 'Bag of 5 big Tomatoes',
+      description: 'Bag of 12 big Tomatoes',
+      quantity: 1,
+    },
+    {
+      id: 50,
+      name: 'Green Apple',
+      description: 'Bag of 12 big Green Apple',
       quantity: 1,
     },
   ],
