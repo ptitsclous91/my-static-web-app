@@ -38,7 +38,7 @@ const data = {
     },
     {
       id: 50,
-      name: 'Tomatoes',
+      name: 'Green Apple',
       description: 'Bag of 12 big Green Apple',
       quantity: 1,
     },
