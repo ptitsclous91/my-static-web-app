@@ -7,6 +7,12 @@ const data = {
       quantity: '1',
     },
     {
+      id: 50,
+      name: 'Big Orange',
+      description: 'Bag of 12 Big Orange',
+      quantity: 1,
+    },
+    {
       id: 20,
       name: 'Sliced bread',
       description: 'Loaf of fresh sliced wheat bread',
@@ -38,8 +44,8 @@ const data = {
     },
     {
       id: 50,
-      name: 'Green Apple',
-      description: 'Bag of 12 big Green Apple',
+      name: 'Red Apple',
+      description: 'Bag of 12 big Red Apple',
       quantity: 1,
     },
   ],
