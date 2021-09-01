@@ -9,7 +9,7 @@ const data = {
     {
       id: 50,
       name: 'Oranges',
-      description: 'Bag of 10 Oranges',
+      description: 'Bag of 20 Oranges',
       quantity: 1,
     },
     {
