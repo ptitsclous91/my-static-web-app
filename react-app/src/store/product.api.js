@@ -8,8 +8,8 @@ const data = {
     },
     {
       id: 50,
-      name: 'Big Oranges',
-      description: 'Bag of 12 Big Oranges',
+      name: 'Oranges',
+      description: 'Bag of 10 Oranges',
       quantity: 1,
     },
     {
