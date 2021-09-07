@@ -9,7 +9,7 @@ const data = {
     {
       id: 20,
       name: 'Victoria PineApples',
-      description: '1 piece Victoria PineApples',
+      description: '10 piece Victoria PineApples',
       quantity: 1,
     },
     {
