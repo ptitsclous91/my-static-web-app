@@ -15,7 +15,7 @@ const data = {
     {
       id: 30,
       name: 'Grapefruits',
-      description: 'Bag of 5 Grapefruits',
+      description: 'Bag of 10 Grapefruits',
       quantity: 1,
     },
     {
