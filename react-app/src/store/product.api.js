@@ -3,7 +3,7 @@ const data = {
     {
       id: 10,
       name: 'Strawberries',
-      description: '450g package of fresh organic strawberries',
+      description: '900g package of fresh organic strawberries',
       quantity: '1',
     },
     {
